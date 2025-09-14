@@ -1,4 +1,4 @@
-<img width="1020" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d02fc41-5121-4e6b-a390-6e590c00d323" />
+<img width="1920" height="900" alt="image" src="https://github.com/user-attachments/assets/5d02fc41-5121-4e6b-a390-6e590c00d323" />
 
 
 <h1>Desafio cientista de dados</h1>
