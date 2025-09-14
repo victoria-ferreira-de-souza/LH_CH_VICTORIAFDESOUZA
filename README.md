@@ -4,7 +4,7 @@
 <h1>Desafio Cientista de Dados 🎲📈</h1>
 
 ## 🐼Sobre:
-Esse projeto é o meu primeiro que foi desenvolvido para mostrar meus conhecimentos análise de dados e solução de problemas, 
+Esse projeto é o meu primeiro que foi desenvolvido para mostrar meus conhecimentos em análise de dados e solução de problemas, 
 através do desafio proposto pelo programa.
 
 <br>
